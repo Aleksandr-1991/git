@@ -1,1 +1,4 @@
 # GammarJoba!
+
+git init - Инициализирует.
+
