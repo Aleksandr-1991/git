@@ -33,3 +33,4 @@ git log - команда выводит все коммиты.
 git merge - команда объединения веток.
 ## ДЗ 2-5.
 
+git branch Name_branch - команда ветвь с именем Name_branch.
