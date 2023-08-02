@@ -36,3 +36,5 @@ git branch -d Name_Branch - Команда удаляет ветвь с имен
 git branch Name_branch - команда создаёт ветвь с именем Name_branch.
 
 git init - команда создает новый репозиторий Git.
+
+git version - команда отображает версию git установленого в данной системе.
