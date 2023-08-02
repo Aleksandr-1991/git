@@ -39,4 +39,6 @@ git init - команда создает новый репозиторий Git.
 
 git version - команда отображает версию git установленого в данной системе.
 
-git config --global user.email "*Ваш e-mail*"
+git config --global user.name "*Ваш ник*" <br> - Представит вас системе. Внесёт в неё ваш ник.
+
+git config --global user.email "*Ваш e-mail*"<br> - Внесёт в систему вашу электронную почту.
