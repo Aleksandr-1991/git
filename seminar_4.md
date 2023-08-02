@@ -31,7 +31,11 @@
 git log - команда выводит все коммиты.
 
 git merge - команда объединения веток.
+
 ## ДЗ 2-5.
 
 git branch -d Name_Branch - Команда удаляет ветвь с именем "Name_Branch".
-git branch Name_branch - команда ветвь с именем Name_branch.
+
+git branch Name_branch - команда создаёт ветвь с именем "Name_branch".
+
+git version - команда отображает версию git установленого в данной системе.
